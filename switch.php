@@ -12,17 +12,6 @@ if(isset($_REQUEST['option'])) {
 	$option = '';
 }
 
-check_login(['dashboard']);
-
-function check_login($cases) {
-	if(!isset($_SESSION) && !in_array($_REQUEST['option'], $cases)) {
-		pr("you are logged in");
-	} else {
-		// include("views/logout.php");
-			break;
-	}
-}
-
 	switch($option) {
 			
 		case "signup":
