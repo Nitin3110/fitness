@@ -1,82 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a366ae4-5310-4c30-95d6-cc04f0809fb3" name="Default" comment="Change">
-      <change beforePath="$PROJECT_DIR$/ajax_process/error_log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ajax_process/login_process.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ajax_process/register_process.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/controller/signup.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/animation.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/css.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/css_002.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/header-inner.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/outer.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/reset.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/shortcodes.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/skin.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/smooth-scroll.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/database/database.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/functions/functions.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/functions/functions_frontend.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/header_config.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/111.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/a1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/a2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/a3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/a4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/adventure-athlete-athletic-235922.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/arrow.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/blog1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/blog2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/blog3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/icon1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/icon2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/icon3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo/Logo 2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo/Logo 3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo/Logo 4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo/logo-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo/logo-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/mark.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/menu.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic13.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic14.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic9.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/team/a2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/team/team13.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change beforePath="$PROJECT_DIR$/js/addthis_widget.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/easing.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/move-top.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/switch.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/video/training.mp4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/views/dashboard.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/views/footer.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/views/header.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/views/header_inner.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/views/home.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/views/login.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/views/logout.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/views/profile.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/views/signup.php" afterPath="" />
-    </list>
+    <list default="true" id="6a366ae4-5310-4c30-95d6-cc04f0809fb3" name="Default" comment="Change" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -364,12 +289,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5690000" />
+    <option name="totallyTimeSpent" value="5789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="-3" width="1317" height="771" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26117647" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26117647" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -377,7 +302,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
