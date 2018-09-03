@@ -12,7 +12,6 @@ if(isset($_REQUEST['option'])) {
 	$option = '';
 }
 
-
 	switch($option) {
 			
 		case "signup":
